@@ -1,3 +1,15 @@
+Instalar las dependencias:
+Iniciar el entorno de desarrollo:
+# Link-Project-Frontend
+
+Frontend del proyecto Link-Project
+
+# paso 1: Clonar el repositorio
+
+# paso 2: instalar las dependencias: pnpm install
+
+# paso 3: Iniciar el entorno de desarrollo: pnpm run dev
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
