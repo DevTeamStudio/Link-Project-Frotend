@@ -1,14 +1,26 @@
-Instalar las dependencias:
-Iniciar el entorno de desarrollo:
-# Link-Project-Frontend
+## 🛠️ Instalación
 
-Frontend del proyecto Link-Project
+1. Clona el repositorio:
+   ```sh
+   git clone https://github.com/tu-usuario/tu-repo.git
+   cd tu-repo
+   ```
 
-# paso 1: Clonar el repositorio
+2. Instala las dependencias:
+   ```sh
+   pnpm install
+   ```
 
-# paso 2: instalar las dependencias: pnpm install
+3. Crea un archivo `.env` con tus variables de entorno si es necesario.
 
-# paso 3: Iniciar el entorno de desarrollo: pnpm run dev
+## 🚧 Comandos útiles
+
+| Comando             | Descripción                         |
+|---------------------|-------------------------------------|
+| `pnpm run dev`      | Inicia el servidor de desarrollo    |
+| `pnpm run build`    | Compila la aplicación para producción |
+| `pnpm start`        | Inicia el servidor en producción    |
+| `pnpm run lint`     | Ejecuta ESLint   
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
