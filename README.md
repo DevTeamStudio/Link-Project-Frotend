@@ -1,24 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## 🛠️ Instalación
 
-## Getting Started
+1. Clona el repositorio:
+   ```sh
+   git clone https://github.com/tu-usuario/tu-repo.git
+   cd tu-repo
+   ```
 
-First, run the development server:
+2. Instala las dependencias:
+   ```sh
+   pnpm install
+   ```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+3. Crea un archivo `.env` con tus variables de entorno si es necesario.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚧 Comandos útiles
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Comando             | Descripción                         |
+|---------------------|-------------------------------------|
+| `pnpm run dev`      | Inicia el servidor de desarrollo    |
+| `pnpm run build`    | Compila la aplicación para producción |
+| `pnpm start`        | Inicia el servidor en producción    |
+| `pnpm run lint`     | Ejecuta ESLint   
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
